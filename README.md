@@ -12,4 +12,6 @@ Future Improvements:
 -Fine-tuning a pre-trained CNN instead of training from scratch to improve generalization.
 -Exploring techniques like dropout and batch normalization to further reduce overfitting.
 
-This project was inspired by my passion for AI and Lego Star Wars. I learned valuable skills in TensorFlow and CNNs by following a tutorial by Patrick Loeber, which provided a great starting point for building this model. I'm Stefano, a grade 10 student from Toronto with a strong interest in AI and computer vision. In my free time, I enjoy playing basketball, 3D printing, and working on deep learning projects. Feel free to reach out with any questions at stefanoedwards@icloud.com.
+This project was inspired by my passion for AI and Lego Star Wars. I learned valuable skills in TensorFlow and CNNs by following a tutorial by Patrick Loeber, which provided a great starting point for building this model. 
+
+I'm Stefano, a grade 10 student from Toronto with a strong interest in AI and computer vision. In my free time, I enjoy playing basketball, 3D printing, and working on deep learning projects. Feel free to reach out with any questions at stefanoedwards@icloud.com.
