@@ -7,10 +7,7 @@ This project was built using TensorFlow and Keras for model training, NumPy for 
 
 To address this, I experimented with data augmentation techniques like random rotations, flips, and zooms to artificially increase the dataset size. However, these transformations altered the Lego minifigures in ways that made classification harder rather than improving performance. As a result, I decided to remove data augmentation. The best solution moving forward is to collect more real images to increase the dataset size.
 
-Future Improvements:
--Expanding the dataset by collecting and labeling more Lego minifigure images.
--Fine-tuning a pre-trained CNN instead of training from scratch to improve generalization.
--Exploring techniques like dropout and batch normalization to further reduce overfitting.
+Future improvements include: expanding the dataset by collecting and labeling more images, fine-tuning a pre-trained CNN instead of training from scratch and exploring techniques like dropout and batch normalization to further reduce overfitting.
 
 This project was inspired by my passion for AI and Lego Star Wars. I learned valuable skills in TensorFlow and CNNs by following a tutorial by Patrick Loeber, which provided a great starting point for building this model. 
 
